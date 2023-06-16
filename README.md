@@ -8,9 +8,11 @@ I created this website to practice JavaScript, using animations and always striv
 
  ### 🖥️ Layout ###
  
-![Screenshot_1](https://user-images.githubusercontent.com/105829768/232170231-e198827e-65c1-40d2-936c-8884e25f41a0.png)
-![Screenshot_2](https://user-images.githubusercontent.com/105829768/232170234-650bcf95-7891-4d07-ae58-0d96dc819694.png)
-![Screenshot_3](https://user-images.githubusercontent.com/105829768/232170302-5aef76f6-862a-472e-b565-ae6e83740227.png)
+![1](https://github.com/Kuhora/Fantastic-Animals/assets/105829768/4f0edeab-a777-444a-a678-31cecf90e8e4)
+![2](https://github.com/Kuhora/Fantastic-Animals/assets/105829768/e871a4f2-0741-42e5-aa58-2518ad696c41)
+![3](https://github.com/Kuhora/Fantastic-Animals/assets/105829768/7153450c-ce00-4ac8-8f60-9879030e5277)
+
+
 
 
 ---
